@@ -1,4 +1,4 @@
-# gnuplot-templates
+# Gnuplot Templates
 Templates to plot with gnuplot
 
 This is to provide useful template to plot astronomical data with gnuplot.
